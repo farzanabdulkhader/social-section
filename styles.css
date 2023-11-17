@@ -1,0 +1,47 @@
+body {
+  background-color: rgb(255, 250, 255);
+}
+
+.hero {
+  width: 21rem;
+  color: #827e82;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #573253;
+}
+
+.rating {
+  margin-bottom: 3.4rem;
+}
+
+.rating .card {
+  background-color: #f2e6f1;
+  width: 24rem;
+}
+
+.rating .card-text {
+  color: rgb(52, 52, 52);
+}
+
+.card-image {
+  border-radius: 50%;
+  width: 3.3rem;
+}
+
+.testimonials .card {
+  background-color: #573253;
+  color: #ded9de;
+  width: 22rem;
+  border-radius: 1rem;
+}
+
+.testimonials .card-subtitle {
+  color: rgb(171, 76, 171);
+}
+
+p.card-text {
+  color: #ded9de;
+}
